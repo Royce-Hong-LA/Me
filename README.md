@@ -21,7 +21,7 @@ Hello World! My name is Roy. I am a passionate software developer who constantly
 
 
 
-<h2>Skills and Technologies :joystick:</h2>
+<h2>Skills and Technologies</h2>
 
 <h4>Front-End</h4>
 <p align="center">
