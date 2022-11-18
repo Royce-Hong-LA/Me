@@ -1,5 +1,5 @@
 # Hello World ! I am Royce ! 
-Passionate Software Developer
+Welcome to my github account!
 
 <p align="left">
  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -11,25 +11,21 @@ Passionate Software Developer
 </p>
 
 
-<h1 align="center">Welcome!:v:</h1>
-
-I'm a full-stack software engineer motivated in developing simple and efficient web applications through creative solutions. I'm passionate in merging design with powerful tech-stacks to make the lives of others easier and enjoyable! I'm always seeking ways to improve myself by taking on new challenges and learning something new. When I'm away from the screen, I enjoy playing ping pong :ping_pong: with my friends and checking out new local restaurants around my neighborhood. 
-
-<h2 align="center">Get in touch! :call_me_hand:</h2>
+<h2">Get in touch!</h2>
 <p align="center">
-<a href="mailto: seungkilee94@gmail.com">
+<a href="mailto: swhong0419@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/seung-ki-lee/">
+<a href="https://www.linkedin.com/in/swhong04">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
  </p>
 
 
 
-<h2 align="center">Skills and Technologies :joystick:</h2>
+<h2>Skills and Technologies :joystick:</h2>
 
-<h4 align="center">Front-End</h4>
+<h4>Front-End</h4>
 <p align="center">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -37,7 +33,7 @@ I'm a full-stack software engineer motivated in developing simple and efficient 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-<h4 align="center">Back-End</h4>
+<h4>Back-End</h4>
 <p align="center">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
