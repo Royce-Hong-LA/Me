@@ -23,7 +23,7 @@ Hello World! My name is Roy. I am a passionate software developer who constantly
 
 <h2>Skills</h2>
 
-<h4>Front-End</h4>
+<h4 align="center">Front-End</h4>
 <p align="center">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -33,7 +33,7 @@ Hello World! My name is Roy. I am a passionate software developer who constantly
 
 </p>
 
-<h4>Back-End</h4>
+<h4 align="center">Back-End</h4>
 <p align="center">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
@@ -44,7 +44,7 @@ Hello World! My name is Roy. I am a passionate software developer who constantly
 
 </p>
  
-<h4>Tools</h4>
+<h4 align="center">Tools</h4>
 <p align="center">
 <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
