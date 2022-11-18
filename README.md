@@ -6,7 +6,7 @@ Hello World! My name is Roy. I am a passionate software developer who constantly
 
 
 
-<h2>Get in touch!</h2>
+<h2>Feel Free to Reach Out to Me!</h2>
 <p align="center">
 <a href="mailto: swhong0419@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -21,7 +21,7 @@ Hello World! My name is Roy. I am a passionate software developer who constantly
 
 
 
-<h2>Skills and Technologies</h2>
+<h2>Skills</h2>
 
 <h4>Front-End</h4>
 <p align="center">
