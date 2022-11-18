@@ -1,6 +1,8 @@
 # Hello World ! I am Royce ! 
 Welcome to my github account!
 
+Hello World! My name is Roy. I am a passionate software developer who constantly seeks opportunities to learn about new specialties in programming. My dream has always been to utilize my skills to improve people's lives, regardless of their status.
+
 
 
 
