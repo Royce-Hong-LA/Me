@@ -11,7 +11,7 @@ Welcome to my github account!
 </p>
 
 
-<h2">Get in touch!</h2>
+<h2>Get in touch!</h2>
 <p align="center">
 <a href="mailto: swhong0419@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
