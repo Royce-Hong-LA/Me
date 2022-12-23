@@ -8,18 +8,18 @@ Hello World! My name is Roy. I am a passionate software developer who constantly
 
 <h2>Feel Free to Reach Out to Me!</h2>
 <p align="center">
-<a href="mailto: swhong0419@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/swhong04">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+ <a href="mailto: swhong0419@gmail.com">
+   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+ </a>
+ <a href="https://www.linkedin.com/in/swhong04">
+   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
  </a>
  <a href="https://www.instagram.com/sw_h0419">
- <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
-</a>
- <a href="https://www.devroyce.net">
- Check out my Portfolio Website !
-</a>
+   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+ </a>
+ <a href="https://www.devroyce.net"> 
+   <img src="https://img.shields.io/badge/Portfolio-Website-blue" />
+ </a>
  </p>
 
 
